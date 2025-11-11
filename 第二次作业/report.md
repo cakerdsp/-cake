@@ -1,5 +1,7 @@
 # Cliff Walk 强化学习实验报告
 
+学号：22320021 姓名：陈安康
+
 ## 1. 项目背景与任务描述
 
 本次实验围绕经典的 Cliff Walk（悬崖漫步）强化学习任务展开，旨在实现并比较基于表格型方法的两种时序差分控制算法：SARSA 与 Q-learning。实验目标包括：
@@ -272,6 +274,6 @@ $$
    - 将任务扩展到更大规模的网格或引入动态障碍，提高难度；
    - 使用函数逼近（例如线性特征或神经网络）处理更高维场景，并探索稳定训练方法。
 
-代码位于仓库：
+代码位于仓库：[https://github.com/cakerdsp/-cake/tree/main/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A](https://github.com/cakerdsp/-cake/tree/main/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A)
 
 *（报告完）*
